@@ -1,3 +1,9 @@
-.row{
-    font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif;
-} 
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+ .container-fluid{
+    background: #a879db;
+background: linear-gradient(90deg,rgba(168, 121, 219, 1) 0%, rgba(87, 184, 199, 1) 100%);
+font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif;
+  }
