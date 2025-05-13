@@ -7,3 +7,10 @@ h1 {
 background: linear-gradient(90deg,rgba(168, 121, 219, 1) 0%, rgba(87, 184, 199, 1) 100%);
 font-family: -apple-system-ui-serif, ui-serif, 'Georgia', serif;
   }
+  .row{
+    padding-bottom: 100px;
+  }
+  img[src="man.webp"] {
+    width: 400px;
+    height: 400px;
+  }
